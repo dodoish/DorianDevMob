@@ -112,7 +112,7 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="20dp"
         android:text="TextView"
-        app:layout_constraintStart_toEndOf="@+id/imageView"
+        app:layout_constraintStart_toEndOf="@+id/imgPull"
         app:layout_constraintTop_toBottomOf="@+id/btnDroit" />
 
     <ImageView

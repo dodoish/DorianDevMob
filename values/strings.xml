@@ -4,4 +4,5 @@
     <string name="petiteDesc">a noel c\'est moi qui tien les rennes</string>
     <string name="GrandDescPull">un pull qui ravira les petits et les grands.tricoté par de vrai grand mére</string>
     <string name="app_name">test</string>
+    <string name="ajoutPanier">Pull n°%1$d ajouté a panier</string>
 </resources>
