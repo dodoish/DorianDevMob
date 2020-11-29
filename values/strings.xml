@@ -5,4 +5,9 @@
     <string name="GrandDescPull">un pull qui ravira les petits et les grands.tricoté par de vrai grand mére</string>
     <string name="app_name">test</string>
     <string name="ajoutPanier">Pull n°%1$d ajouté a panier</string>
+    <string name="confirm_phrase">Attention, vous allez annulez tous les achats effectués sur cettepage. Etes-vous sür?</string>
+    <string name="confirm_titre">confirmation de l\'annulation</string>
+    <string name="confirm_oui">OUI</string>
+    <string name="confirm_non">NON</string>
+
 </resources>
