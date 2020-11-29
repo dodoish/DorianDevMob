@@ -7,7 +7,7 @@ public class produit implements Serializable {
     private int idCat;
     private String description;
     private String image;
-    private int tarif;
+    private double tarif;
 
     public int getIdCat() {
         return idCat;
@@ -17,7 +17,7 @@ public class produit implements Serializable {
         this.idCat = idCat;
     }
 
-    public produit(String titre, String desc, String img, int tarif, int idCat) {
+    public produit(String titre, String desc, String img, double tarif, int idCat) {
         this.titre=titre;
         this.description=desc;
         this.image=img;
@@ -50,11 +50,11 @@ public class produit implements Serializable {
         this.image = image;
     }
 
-    public int getTarif() {
+    public double getTarif() {
         return tarif;
     }
 
-    public void setTarif(int tarif) {
+    public void setTarif(double tarif) {
         this.tarif = tarif;
     }
 }
