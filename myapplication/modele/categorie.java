@@ -1,6 +1,8 @@
 package com.example.myapplication.modele;
 
-public class categorie {
+import java.io.Serializable;
+
+public class categorie implements Serializable {
     private int id;
     private String titre;
     private String Visuel;
